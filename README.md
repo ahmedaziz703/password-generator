@@ -51,7 +51,7 @@ If it's a simple HTML/JS project, just open index.html in your browser.
 ---
 
 📁 Project Structure
-
+```bash
 password-generator/
 │
 ├── index.html         # Main HTML file
@@ -60,7 +60,7 @@ password-generator/
 ├── README.md          # This file
 
 ---
-
+```
 📷 Screenshots
 
 (Insert screenshots here if available)
